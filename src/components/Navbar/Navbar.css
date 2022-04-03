@@ -1,0 +1,11 @@
+.link {
+  color: blue;
+}
+
+.active-link {
+  text-decoration: underline;
+  font-weight: bold;
+  font-size: 17px;
+  transition: color ease-in-out 300ms;
+  color: red;
+}
