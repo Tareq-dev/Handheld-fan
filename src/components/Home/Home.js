@@ -10,7 +10,7 @@ const Home = () => {
       <section className="text-gray-600 body-font">
         <div className="container flex flex-wrap px-5 py-14 mx-auto items-center">
           <div className="md:w-1/2 md:pr-12 md:py-8 md:border-r md:border-b-0 mb-10 md:mb-0 pb-10 border-b border-gray-200">
-            <h1 className="sm:text-3xl text-2xl font-bold title-font mb-2 yellow-text">
+            <h1 className="sm:text-3xl text-stock font-bold title-font mb-2 yellow-text">
               Newmind USB Handheld Desk Fan !!
             </h1>
             <p className="leading-relaxed text-base">
@@ -53,18 +53,21 @@ const Home = () => {
         </h2>
         <div className="text-gray-600 body-font">
           <div className="container px-5 py-14 mx-auto">
-            <div className="grid grid-cols-3 gap-3 -m-4">
+            <div className="grid sm:grid-cols-3 gap-3">
               {reviews.slice(0, 3).map((review) => (
                 <Review key={review._id} review={review} />
               ))}
             </div>
           </div>
         </div>
-        <div className='flex justify-center'>
-        <Link to="/reviews" className="yellow-bg rounded-lg  px-3 py-2">Veiw All Comments</Link>
+        <div className="flex justify-center">
+          <Link to="/reviews" className="yellow-bg rounded-lg  px-3 py-2">
+            Veiw All Comments
+          </Link>
         </div>
       </section>
-      <br /><br />
+      <br />
+      <br />
     </div>
   );
 };

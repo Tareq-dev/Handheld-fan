@@ -6,3 +6,7 @@
 .yellow-text {
   color: #ffd263;
 }
+.text-stock{
+     font-size: 38px;
+     -webkit-text-stroke: 1px black;
+}

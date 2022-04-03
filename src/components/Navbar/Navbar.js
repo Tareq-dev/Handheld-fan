@@ -5,8 +5,8 @@ import "./Navbar.css";
 function Navbar() {
   return (
     <div className="mt-4">
-      <ul className="flex justify-center uppercase">
-        <li className="mx-4">
+      <ul className="flex bg-black py-2 uppercase md:ml-auto md:mr-auto flex-wrap items-center text-base justify-center">
+        <li className="mx-3">
           <NavLink
             className={({ isActive }) => (isActive ? "active-link" : "link")}
             to="/"
@@ -14,7 +14,7 @@ function Navbar() {
             Home
           </NavLink>
         </li>
-        <li className="mx-4">
+        <li className="mx-3">
           <NavLink
             to="/reviews"
             className={({ isActive }) => (isActive ? "active-link" : "link")}
@@ -22,7 +22,7 @@ function Navbar() {
             Reviews
           </NavLink>
         </li>
-        <li className="mx-4">
+        <li className="mx-3">
           <NavLink
             to="/dashboard"
             className={({ isActive }) => (isActive ? "active-link" : "link")}
@@ -30,7 +30,7 @@ function Navbar() {
             Dashboard
           </NavLink>
         </li>
-        <li className="mx-4">
+        <li className="mx-3">
           <NavLink
             to="/blogs"
             className={({ isActive }) => (isActive ? "active-link" : "link")}
