@@ -1,4 +1,5 @@
 import React from "react";
+import './Blog.css'
 
 const Blog = () => {
   return (
@@ -8,11 +9,11 @@ const Blog = () => {
           Our Blogs Articles
         </h2>
         <div class="container px-5 py-14 mx-auto">
-          <div class="-my-8 divide-y-2 divide-gray-100">
+          <div class="-my-8 blog-img divide-y-2 divide-gray-100">
             <div class="py-8 flex flex-wrap md:flex-nowrap">
               <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
                 <img
-                  className="border-4 mt-4 p-1 border-yellow-400"
+                  className="border-4 max-w-full h-auto mt-4 p-1 border-yellow-400"
                   src="https://miro.medium.com/max/1400/1*Yo1nkzOAMihE8Ia5O411PQ.jpeg"
                   alt="context"
                 />

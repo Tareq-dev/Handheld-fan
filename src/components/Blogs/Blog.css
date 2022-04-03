@@ -1,0 +1,7 @@
+
+@media screen and (max-width:475px){
+     .blog-img img{
+          width: 330px;;
+          height:auto;
+     }
+}
