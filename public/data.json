@@ -1,46 +1,38 @@
 [
      {
-        "_id": "6249bab6454851f79b7c405e",
-        "picture": "https://www.pngkey.com/png/detail/65-658471_happy-man-happy-man-face-png.png",
-        "name": "Mccray Cortez",
-        "email": "mcctez@gmail.com",
-        "comment": "I really do love this fan! I use it when I’m cooking in the kitchen, walking the neighborhood, or sitting outside at the football field! It has helped me endure the summer in this south Texas heat. It is also great at keeping the “fog” off my glasses while wearing a mask. I had purchased another brand of fan but returned it because it was incredibly noisy. This fan is much quieter."
+         "month": "Mar",
+         "investment": 100000,
+         "sell": 220041,
+         "revenue": 10401
      },
      {
-        "_id": "6249bab628767a5956a3ad19",
-        "picture": "https://media.istockphoto.com/photos/smiling-face-of-young-man-over-white-background-picture-id1201302385?k=20&m=1201302385&s=170667a&w=0&h=6TVgv3CNWcw9xT0EyzMuuhv7_os-sth7oWwYvrz-i14=",
-        "name": "Mable Pitts",
-        "email": "pitts@hotmail.com",
-        "comment": "I received one of these from a friend this summer. and now I’ve been gifting them to other friends. This season I’m passing on the love to a buddy in NE who has to mow his lawn practically at the crack of dawn in 80-degree heat because it’s unbearable when the temps get even higher in the afternoon. All I’m putting on the gift tag is: You’re welcome.” "
+         "month": "Apr",
+         "investment": 200000,
+         "sell": 42003,
+         "revenue": 104500
      },
      {
-        "_id": "6249bab609920f10753187a4",
-        "picture": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "name": "Lesley Jackson",
-        "email": "leson@email.com",
-        "comment": "I love it the air it strong not to loud. I use them in the summer while cutting the grass and listening to music. I also use them on the airplane since covid and the facemasks makes me breath better."
+         "month": "May",
+         "investment": 500000,
+         "sell": 700026,
+         "revenue": 670010
      },
      {
-        "_id": "6249bab6fed8782422faf2cb",
-        "picture": "https://www.nicepng.com/png/detail/65-658348_happy-man-i9life-happy-man-png.png",
-        "name": "Hammond Puckett",
-        "email": "hammon@hotmail.com",
-        "comment": "This was a Christmas present for my daughter who seems to be hot all the time, especially when she exercises on her treadmill, and other machines. She texted me after she used it and said ~it really works~! She was really impressed that it cools on the back of her neck as well as the sides. "
+         "month": "Jun",
+         "investment": 500000,
+         "sell": 520009,
+         "revenue": 404005
      },
      {
-        "_id": "6249bab6051f1b90ad6cf19f",
-        "picture": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Jessica_Ennis_%28May_2010%29_cropped.jpg",
-        "name": "Terry Mcmahon",
-        "email": "terry@gmail.com",
-        "comment": "This neck fan is pretty strong and blows strong air. I was expecting this fan to blow on the top And bottom so the description is just a little misleading. However, it does blow nicely."
+         "month": "Jul",
+         "investment": 600000,
+         "sell": 600001,
+         "revenue": 500900
      },
      {
-        "_id": "6249bab67c3f56f451e341c1",
-        "picture": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/newscms/2021_38/1777130/nadia-chaudhri-kb-main-210920.jpg",
-        "name": "Wendi Rosales",
-        "email": "wendir@email.com",
-        "comment": "The fan is light. I use it when I’m wearing a robe for singing in the choir so it’s quiet enough for me to still sing and keeps me cool with the extra clothing I have on."
+         "month": "Aug",
+         "investment": 700000,
+         "sell": 624470,
+         "revenue": 610000
      }
-     
-  ]
-  
+ ]
