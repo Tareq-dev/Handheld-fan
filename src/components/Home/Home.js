@@ -7,6 +7,8 @@ const Home = () => {
   const [reviews] = useReviews();
   return (
     <div>
+      {/* ----------------- Header Part ------------------ */}
+
       <section className="text-gray-600 body-font">
         <div className="container flex flex-wrap px-5 py-14 mx-auto items-center">
           <div className="md:w-1/2 md:pr-12 md:py-8 md:border-r md:border-b-0 mb-10 md:mb-0 pb-10 border-b border-gray-200">
@@ -47,6 +49,9 @@ const Home = () => {
           </div>
         </div>
       </section>
+
+      {/* ----------------- Reviews Part ------------------ */}
+
       <section>
         <h2 className="text-center text-3xl font-bold">
           Ours Customers Reviews
@@ -61,6 +66,8 @@ const Home = () => {
           </div>
         </div>
         <div className="flex justify-center">
+          {/* ----------------- Navigate by Link ------------------ */}
+
           <Link to="/reviews" className="yellow-bg rounded-lg  px-3 py-2">
             Veiw All Comments
           </Link>

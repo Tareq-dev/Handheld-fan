@@ -94,6 +94,7 @@ class LineRechartComponent extends React.Component {
     return (
       <div className="py-14 flex justify-center">
         <div className="grid md:grid-cols-2 gap-6">
+          {/* ----------------- Line Chart ------------------ */}
           <div>
             <h3 className="text-center mt-5 mb-8 font-bold text-3xl text-blue-600">
               Monthly Sell Graph
@@ -114,7 +115,10 @@ class LineRechartComponent extends React.Component {
               <Line type="monotone" dataKey="Profit" stroke="#FF0000" />
             </LineChart>
           </div>
-          <div className="">
+
+          {/* ----------------- Pie Chart ------------------ */}
+
+          <div>
             <h3 className="text-center mt-5 mb-8 font-bold text-3xl text-blue-600">
               Monthly Browser Usages
             </h3>

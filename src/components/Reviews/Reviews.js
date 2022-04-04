@@ -3,7 +3,10 @@ import useReviews from "../Hooks/useReviews";
 import Review from "../Review/Review";
 
 const Reviews = () => {
+  //custom hook
+
   const [reviews] = useReviews();
+
   return (
     <div>
       <h2 className="text-center sm:text-3xl font-bold text-stock yellow-text mt-8">
