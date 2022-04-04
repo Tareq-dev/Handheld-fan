@@ -116,7 +116,7 @@ class LineRechartComponent extends React.Component {
           </div>
           <div className="">
             <h3 className="text-center mt-5 mb-8 font-bold text-3xl text-blue-600">
-              Monthly Browser use
+              Monthly Browser Usages
             </h3>
             <PieChart width={400} height={300}>
               <Pie
