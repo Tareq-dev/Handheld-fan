@@ -26,7 +26,7 @@ const Home = () => {
               className="yellow-bg transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300 px-4 py-2 inline-flex items-center mt-4"
               rel="noreferrer"
             >
-              Learn More
+              Explore More
               <svg
                 fill="none"
                 stroke="currentColor"
